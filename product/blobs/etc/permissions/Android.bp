@@ -79,7 +79,7 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
-    name: "com.google.android.dialer.support",
+    name: "com.google.android.dialer.support-permissions",
     product_specific: true,
     sub_dir: "permissions",
     src: "com.google.android.dialer.support.xml",

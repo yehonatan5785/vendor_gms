@@ -178,7 +178,8 @@ PRODUCT_PACKAGES += \
 
 # GDialer Support
 PRODUCT_PACKAGES += \
-    com.google.android.dialer.support
+    com.google.android.dialer.support \
+    com.google.android.dialer.support-permissions
 
 # IME
 PRODUCT_COPY_FILES += \
